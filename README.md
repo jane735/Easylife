@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>CityAI Hub —— Agent同城生活服务平台</h1>
+  <h1>EasyLife —— Agent周边生活服务平台</h1>
   <p>
     <img src="https://img.shields.io/badge/Spring%20Boot-3.2.4-6DB33F" alt="Spring Boot">
     <img src="https://img.shields.io/badge/Java-17-007396" alt="Java">
