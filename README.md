@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>EasyLife —— 智慧周边生活服务</h1>
+  <h1>EasyLife —— Agent 智慧周边生活服务</h1>
   <p>
     <img src="https://img.shields.io/badge/Spring%20Boot-3.2.4-6DB33F" alt="Spring Boot">
     <img src="https://img.shields.io/badge/Java-17-007396" alt="Java">
@@ -166,4 +166,4 @@ EasyLife 是一个类“大众点评”的智慧周边服务平台。采用前�
     
    不过实际上可能是我当时理解错了，或者那个面试官也不懂这方面，redis是完全可以存储短期记忆的！并且很多大型项目都是冷热数据分离，采用类似redis的引擎存储热数据与实时状态（超大型项目比如ChatGPT都是自研存储引擎，但是原理都是相同的），类似MySQL的引擎存储用户信息、全量会话历史、工具调用记录等数据，使用milvus存储向量化的长期记忆、用户画像等。
 
-   感谢阅读，如果对你也有帮助的话就点个star吧！（在读大学生的一份项目总结，如果有什么问题欢迎随时提问）
+   感谢阅读，如果对你也有帮助的话就点个star吧！（在读研究生的一份项目总结，如果有什么问题欢迎随时提问）
